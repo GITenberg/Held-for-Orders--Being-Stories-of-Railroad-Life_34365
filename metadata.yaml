@@ -1,0 +1,43 @@
+_repo: Held-for-Orders--Being-Stories-of-Railroad-Life_34365
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hambidge, Jay
+    birthdate: 1867
+    deathdate: 1924
+    gutenberg_agent_id: '24849'
+    url: http://www.gutenberg.org/2009/agents/24849
+covers:
+- cover_type: archival
+  image_path: 34365-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spearman, Frank H. (Frank Hamilton)
+    alias: Spearman, Frank Hamilton
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '25772'
+    url: http://www.gutenberg.org/2009/agents/25772
+    wikipedia: http://en.wikipedia.org/wiki/Frank_H._Spearman
+description: ''
+gutenberg_issued: '2010-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'Railroad stories'
+- !lcsh 'Fiction'
+tableOfContents: 'The switchman''s story: Shockley -- The wiper''s story: How McGrath
+  got an engine -- The roadmaster''s story: The Spider Water -- The striker''s story:
+  McTerza -- The despatcher''s story: The last order -- The nightman''s story: Bullhead
+  -- The master mechanic''s story: Delaroo -- The operator''s story: De Molay four
+  -- The trainmaster''s story: Of the old guard -- The yellow mail story: Jimmie the
+  Wind.'
+title: 'Held for Orders: Being Stories of Railroad Life'
+url: http://www.gutenberg.org/ebooks/34365
